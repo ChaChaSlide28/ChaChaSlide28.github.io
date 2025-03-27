@@ -7,3 +7,10 @@ font-family: sillyfont;
     font-family: sillyfont;
     src: url("fonts/sillyfont.ttf");
 }
+h2
+{
+    @font-face {
+        font-family: wah;
+        src: url("fonts/wah.tff");
+    }
+}
