@@ -16,3 +16,7 @@ h2
         font-family: wah;
         src: url("fonts/wah.ttf");
     }
+p
+{
+    color: orange;
+}
