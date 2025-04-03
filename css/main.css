@@ -1,0 +1,22 @@
+h1
+{
+    color: blue;
+font-family: sillyfont;
+}
+@font-face {
+    font-family: sillyfont;
+    src: url("fonts/sillyfont.ttf");
+}
+h2
+{
+    color: red;
+   font-family: wah;
+}
+ @font-face {
+        font-family: wah;
+        src: url("fonts/wah.ttf");
+    }
+p
+{
+    color: orange;
+}
