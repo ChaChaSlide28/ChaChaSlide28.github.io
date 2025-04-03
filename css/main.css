@@ -1,6 +1,6 @@
 h1
 {
-    color: blue;
+    color: 25,111,121;
 font-family: sillyfont;
 }
 @font-face {
@@ -9,7 +9,7 @@ font-family: sillyfont;
 }
 h2
 {
-    color: red;
+    color: navy;
    font-family: wah;
 }
  @font-face {
@@ -18,5 +18,8 @@ h2
     }
 p
 {
-    color: orange;
+    background-color: 254,189,243;
+}
+img {
+    border-radius: 8px;
 }
